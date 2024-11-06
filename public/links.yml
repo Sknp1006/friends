@@ -298,12 +298,12 @@
   email: zhouningsiyuan@foxmail.com
   color: "#42b8dd"
 - url: https://blog.besscroft.com/
-  avatar: https://blog.besscroft.com/avatar.png
+  avatar: https://blog.besscroft.com/avatar.jpg
   name: Bess Croft
-  blog: 风与牧歌
+  blog: 旅行者的随想
   desc: 书中自有颜如玉
   email: besscroft@foxmail.com
-  color: "#00A9EF"
+  color: "#00D1CE"
 - url: https://ffis.me/
   avatar: https://img.ffis.me/images/2019/12/21/1.6min.png
   name: 饭饭's Blog
@@ -340,26 +340,33 @@
   email: liangcx126@gmail.com
   color: "#02A289"
 - url: https://www.yuzhang.wang/
-  avatar: https://fastly.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210907012640.png
+  avatar: https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png
   name: YuZhangWang
   blog: YuZhangWang的领域
   desc: 两岸猿声啼不住 轻舟已过万重山
   email: YuZhangWang233@163.com
   color: "#7FC8F8"
-- url: https://www.miaoer.xyz
-  avatar: https://www.miaoer.xyz/weblogo.jpg
+- url: https://www.miaoer.net
+  avatar: https://static.miaoer.net/logo/avatar.webp
   name: 喵二
   blog: 喵二の小博客
   desc: 缘，妙不可言
   email: miaoermua@gmail.com
-  color: "#DDDFF4"
-- url: https://blog.nin.red
-  avatar: https://blog.nin.red/img/icon.png
+  color: "#E9A390"
+- url: https://www.imcao.cn
+  avatar: https://www.imcao.cn/avatar.png
+  name: ImCaO
+  blog: ImCaO's Blog
+  desc: 花有重开日，人无再少年。
+  email: imcao@imcao.cn
+  color: "#49b1f5"
+- url: https://nocp.space
+  avatar: https://nocp.space/static/blog-icon.png
   name: NoahHrreion
-  blog: NBlog
-  desc: 由一条咸鱼搭建的博客
+  blog: Norcleeh's Site
+  desc: 由一条咸鱼搭建的网站
   email: nriot233@outlook.com
-  color: "#46c48b"
+  color: "#077955"
 - url: https://blog.sxzz.moe/
   avatar: https://fastly.jsdelivr.net/gh/sxzz/static@latest/avatar.png
   name: 三咲智子
@@ -373,3 +380,52 @@
   desc: 别说万事转头空 未转头时为梦
   email: i@focuschen.com
   color: "#255597"
+- url: https://yuumi.link
+  avatar: https://cdn.yuumi.link/images/settings/favicon.png
+  name: Yuumi
+  blog: Yuumi的烟波之路
+  desc: 続きを鳴らそう——
+  email: yuumi0221@outlook.com
+  color: "#D69B54"
+- url: https://rong6.cn
+  avatar: https://static.codemao.cn/coco/player/unstable/HJU2TH3pn.image/jpeg
+  name: 荣6呀
+  blog: 荣6的小站
+  desc: 永远相信美好的事情即将发生！
+  email: 1604201832@qq.com
+  color: '#f4645c'
+- url: https://lihaoyu.cn
+  avatar: https://blog-api.lihaoyu.cn/avatar
+  name: Big_Cake
+  blog: 晓雨杂记
+  desc: 也许我们会分别，但我们将永远不会忘记彼此。
+  email: me@lihaoyu.cn
+  color: '#F2BC57'
+- url: https://kasuie.cc
+  avatar: https://kasuie.cc/avatar.webp
+  name: kasuie
+  blog: KASUIEの次元
+  desc: 喜欢温柔的人
+  email: kasuie@qq.com
+  color: '#18c964'
+- url: https://www.plsshenyun.top
+  avatar: https://www.plsshenyun.top/ico/ico.png
+  name: 望夜菌
+  blog: 望夜菌的小窝
+  desc: change and challenge!
+  email: plsshenyun@outlook.com
+  color: '#ffd6fb'
+- url: https://www.voidmatrix.work
+  avatar: https://www.voidmatrix.work/images/avatar.jpg
+  name: Voidmatrix
+  blog: Voidmatrix's Blog
+  desc: 重剑无锋，大巧不工
+  email: voidmatrix@outlook.com
+  color: '#ee7948'
+- url: https://blog.kfdzcoffee.cn
+  avatar: https://image.kfdzcoffee.cn/i/1/avatar.png
+  name: 咖啡豆子coffee
+  blog: 咖啡豆子coffee的小站
+  desc: 所有奇迹的始发点
+  email: contact@kfdzcoffee.cn
+  color: "#7FC8F8"
